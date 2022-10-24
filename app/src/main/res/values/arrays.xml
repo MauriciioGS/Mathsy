@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="formulas">
+        <item>Tensión (Voltaje)</item>
+        <item>Velociad media</item>
+        <item>Pendiente de una recta</item>
+    </string-array>
+</resources>

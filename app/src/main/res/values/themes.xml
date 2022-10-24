@@ -1,0 +1,25 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Mathsy" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/prim500</item>
+        <item name="colorPrimaryVariant">@color/primlight</item>
+        <item name="colorOnPrimary">@color/bg</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/sec500</item>
+        <item name="colorSecondaryVariant">@color/sec400</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="colorSurface">@color/sec200</item>
+        <item name="colorOnSurface">@color/black</item>
+        <item name="colorOnBackground">@color/bg</item>
+        <item name="colorOnError">@color/error</item>
+    </style>
+
+    <style name="FullScreen" parent="Theme.Mathsy">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+
+</resources>

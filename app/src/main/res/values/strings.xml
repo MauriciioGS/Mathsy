@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Mathsy</string>
+    <string name="developer">Mauricio García</string>
+    <string name="app_version">v1.0</string>
+
+    <!-- MainActivity -->
+    <string name="txt_intens_value">Valor de: I [A]</string>
+    <string name="txt_res_value">Valor de: R [Ω]</string>
+    <string name="txt_dist_value">Valor de: d [m]</string>
+    <string name="txt_time_value">Valor de: t [s]</string>
+    <string name="txt_y2_value">Valor de: y2</string>
+    <string name="txt_y1_value">Valor de: y1</string>
+    <string name="txt_x2_value">Valor de: x2</string>
+    <string name="txt_x1_value">Valor de: x1</string>
+    <string name="hint_select_a_formula">Selecciona una formula…</string>
+    <string name="data_1">Dato 1</string>
+    <string name="data_2">Dato 2</string>
+    <string name="data_3">Dato 3</string>
+    <string name="data_4">Dato 4</string>
+    <string name="btn_calculate">Calcular</string>
+
+    <!-- Errors -->
+    <string name="txt_empty_fields">Introduce todas las variables</string>
+    <string name="txt_division_by_zero">El valor de %1$s no puede ser 0</string>
+    <string name="txt_x2_equals_x1">El valor de x2 no puede ser igual a x1</string>
+    <string name="msg_var_tiempo">Tiempo (t)</string>
+
+    <!-- ResultActivity -->
+    <string name="tv_result">%1$s = %2$s</string>
+    <string name="tv_vars">%1$s %2$s %3$s %4$s</string>
+    <string name="txt_pendiente">m</string>
+    <string name="txt_pendiente_res">%.4f</string>
+    <string name="txt_tension">V</string>
+    <string name="txt_tension_res">%.4f [V]</string>
+    <string name="txt_velocidad">v</string>
+    <string name="txt_velocidad_res">%.4f [m/s]</string>
+    <string name="txt_d">d = %.2f [m],</string>
+    <string name="txt_t">t = %.2f [s]</string>
+    <string name="txt_I">I = %.2f [A],</string>
+    <string name="txt_R">R = %.2f [Ω]</string>
+    <string name="txt_y2">y2 = %.2f,</string>
+    <string name="txt_y1">y1 = %.2f\n</string>
+    <string name="txt_x2">x2 = %.2f,</string>
+    <string name="txt_x1">x1 = %.2f</string>
+    <string name="tv_result_title">Resultado</string>
+</resources>
